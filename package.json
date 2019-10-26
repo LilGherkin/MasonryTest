@@ -1,0 +1,24 @@
+{
+  "name": "MasonryTest",
+  "version": "1.0.0",
+  "description": "Testing out masonry npm package.",
+  "main": "script.js",
+  "dependencies": {
+    "masonry-layout": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilGherkin/MasonryTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LilGherkin/MasonryTest/issues"
+  },
+  "homepage": "https://github.com/LilGherkin/MasonryTest#readme"
+}
